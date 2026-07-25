@@ -226,10 +226,14 @@ Results may vary depending on the software environment, preprocessing pipeline, 
 If you use this implementation in your research, please cite the original paper.
 
 ```bibtex
-@inproceedings{papadimitriou2023chess,
-  title={Chess Piece Recognition using Deep Convolutional Neural Networks},
-  author={Papadimitriou, Orestis and Kanavos, Athanasios and Maragoudakis, Manolis and Gerogiannis, Vassilis C.},
-  year={2023}
+@inproceedings{papadimitriou2024chess,
+  title={Chess piece recognition using deep convolutional neural networks},
+  author={Papadimitriou, Orestis and Kanavos, Athanasios and Maragoudakis, Manolis and Gerogiannis, Vassilis C},
+  booktitle={Fourth Symposium on Pattern Recognition and Applications (SPRA 2023)},
+  volume={13162},
+  pages={1316202},
+  year={2024},
+  organization={SPIE}
 }
 ```
 
